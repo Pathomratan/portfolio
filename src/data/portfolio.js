@@ -1,4 +1,5 @@
 import liveDemo from "../assets/images/Live Demo serious.mp4";
+import liveDemoSecurity from "../assets/images/Live Demo Web Security.mp4";
 import webpageImage from "../assets/images/Webpageserious.png";
 import webSecurity from "../assets/images/Websecurityscanner.png";
 
@@ -52,7 +53,7 @@ export const portfolio = {
       techStack: ["React", "CSS"],
       image: webSecurity,
       github: "https://github.com/Pathomratan/web-security-scanner#tech-stack",
-      demo: "https://your-project-demo.com"
+      demo: liveDemoSecurity
     },
   ]
 };
