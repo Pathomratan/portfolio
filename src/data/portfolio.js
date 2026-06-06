@@ -1,5 +1,6 @@
 import liveDemo from "../assets/images/Live Demo serious.mp4";
 import webpageImage from "../assets/images/Webpageserious.png";
+import webSecurity from "../assets/images/Websecurityscanner.png";
 
 export const portfolio = {
   name: "Pathomrat Anusonpornpherm",
@@ -44,15 +45,14 @@ export const portfolio = {
       demo: liveDemo
     },
     {
-      slug: "visual-support-app",
-      name: "Visual Support App",
+      slug: "Web Security Scanner",
+      name: "Web Security Scanner",
       description:
-        "A product landing page concept focused on clear user flows, visual hierarchy, and responsive layout.",
-      techStack: ["React", "JavaScript", "CSS"],
-      image:
-        "https://images.unsplash.com/photo-1559028006-448665bd7c7f?auto=format&fit=crop&w=900&q=80",
-      github: "https://github.com/your-username/visual-support-app",
+        "Automated Website Security Scanner — Tests 18 security checks ranging from HTTPS/TLS to security headers, DNS, CORS, and information disclosure, followed by risk analysis and remediation steps powered by AI.",
+      techStack: ["React", "CSS"],
+      image: webSecurity,
+      github: "https://github.com/Pathomratan/web-security-scanner#tech-stack",
       demo: "https://your-project-demo.com"
-    }
+    },
   ]
 };
