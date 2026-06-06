@@ -8,7 +8,7 @@ export const portfolio = {
   role: "Project Management & Full Stack Web Developer",
   email: "Pathomrat.an@hotmail.com",
   location: "Bangkok, Thailand",
-  cv: "https://drive.google.com/file/d/1AvlOpf4Cancyvf4wpgk5SAZPkmuRB791/view?usp=drive_link",
+  cv: "https://drive.google.com/file/d/1c342tukmjTwPXMzRCJKFt0GTdiBjQgmT/view?usp=sharing",
   github: "https://github.com/Pathomratan",
   linkedin: "https://www.linkedin.com/in/pathomrat-anusonpornpherm-655428406/",
   about: `I turn operational chaos into structured, on-time delivery — and now I speak both the language of business and the language of code.
