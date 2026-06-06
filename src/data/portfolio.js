@@ -8,9 +8,9 @@ export const portfolio = {
   role: "Project Management & Full Stack Web Developer",
   email: "Pathomrat.an@hotmail.com",
   location: "Bangkok, Thailand",
-  cv: "https://drive.google.com/file/d/1c342tukmjTwPXMzRCJKFt0GTdiBjQgmT/view?usp=sharing",
+  cv: "https://drive.google.com/file/d/1p5XuuIzPT-YO_LOlwhjpZwHJ_oCkDmi_/view?usp=sharing",
   github: "https://github.com/Pathomratan",
-  linkedin: "https://www.linkedin.com/in/pathomrat-anusonpornpherm-655428406/",
+  linkedin: "https://www.linkedin.com/in/pathomrat-an",
   about: `I turn operational chaos into structured, on-time delivery — and now I speak both the language of business and the language of code.
           With 15+ years leading cross-functional teams across insurance, FMCG, and quality assurance, I've built a track record of translating complex stakeholder needs into executable project plans — managing teams of up to 15 people, overseeing ISO 9001 / GMP / HACCP compliance cycles, and driving operations across regulated environments governed by the OIC and SEC.
           In 2026, I doubled down on a deliberate evolution: completing an intensive Full-Stack Development program at Generation Thailand (JavaScript, React, Node.js, Express) — and shipping a live application along the way.
