@@ -35,6 +35,16 @@ export default function ProjectCard({ project }) {
           >
             Live Demo
           </a>
+          {project.vercel && (
+            <a
+              className="action-link"
+              href={project.vercel}
+              rel="noreferrer"
+              target="_blank"
+            >
+              Vercel
+            </a>
+          )}
         </div>
       </div>
     </article>

@@ -28,12 +28,6 @@ export const portfolio = {
     "Bachelor of Business Administration (Industrial Management) | Ramkhamhaeng University"
   ],
   highlightSkills: ["HTML", "React", "CSS", "Tailwind", "JavaScript", "Node.js", "Express", "MongoDB"],
-  meta: {
-    longitude: "100.5018",
-    latitude: "13.7563",
-    browser: "Chrome",
-    os: "Window 10"
-  },
   projects: [
     {
       slug: "serious-fried-chicken-restaurant",
@@ -42,8 +36,9 @@ export const portfolio = {
         "A fried chicken restaurant with a complete management system and self-service delivery project.",
       techStack: ["Figma", "React", "CSS", "Node.js", "MongoDB"],
       image: webpageImage,
-      github: "https://github.com/your-username/restoring-humanity",
-      demo: liveDemo
+      github: "https://github.com/Pathomratan/group-project-sprint2.git",
+      demo: liveDemo,
+      vercel: "https://sp-spin3-frontend.vercel.app/"
     },
     {
       slug: "Web Security Scanner",
@@ -52,8 +47,9 @@ export const portfolio = {
         "Automated Website Security Scanner — Tests 18 security checks ranging from HTTPS/TLS to security headers, DNS, CORS, and information disclosure, followed by risk analysis and remediation steps powered by AI.",
       techStack: ["React", "CSS"],
       image: webSecurity,
-      github: "https://github.com/Pathomratan/web-security-scanner#tech-stack",
-      demo: liveDemoSecurity
+      github: "https://github.com/Pathomratan/web-security-scanner.git",
+      demo: liveDemoSecurity,
+      vercel: "https://web-security-scanner-smoky.vercel.app/"
     },
   ]
 };
